@@ -24,10 +24,6 @@
 <li>Restore location (when importing backups) – <code>/home/backup</code></li>
 </ul>
 <p><strong>CyberPanel commands:</strong></p>
-<ul>
-<li>Restart MariaDB –</li>
-<li></li>
-</ul>
 <p><strong>Logs:</strong></p>
 <ul>
 <li>Error logs –&nbsp;<code>cat /home/cyberpanel/error-logs.txt</code>&nbsp;(<a href="https://cyberpanel.net/docs/log-files-on-cyberpanel/">log files on CyberPanel</a>)</li>
